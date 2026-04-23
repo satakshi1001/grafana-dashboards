@@ -1,5 +1,5 @@
 # Grafana dashboards
-This repository showcases custom Grafana dashboards for monitoring and visualizing key metrics in various areas.
+This repository illustrates customized Grafana dashboards that are used for monitoring and visualizing key metrics in various areas.
 
 Those are also published on [grafana.com](https://grafana.com/dashboards)
 
